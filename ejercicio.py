@@ -9,4 +9,8 @@ print(reps * cuantos_hay)
 # Ejercicio dos
 print(nombre_usuario.upper())
 print(nombre_usuario.lower())
-print(nombre_usuario.title())
+print(f"{nombre_usuario.title()} {"\n"}")
+
+# Ejercicio tres
+n = len(nombre_usuario)
+print(f"{nombre_usuario.upper()} {n}")
