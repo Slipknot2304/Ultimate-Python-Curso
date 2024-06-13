@@ -1,10 +1,9 @@
 """Ejercicios en Python Sesion 1"""
-"""
-    Para actualizar el REPO:
-    git add .
-    git commit -m ""
-    git push 
-    """
+
+# Para actualizar el REPO:
+# git add .
+# git commit -m ""
+# git push
 
 # Ejecicio uno
 nombre_usuario = input("Cual es tu nombre?")
