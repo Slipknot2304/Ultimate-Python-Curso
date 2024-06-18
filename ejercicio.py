@@ -22,6 +22,5 @@ print(f"{nombre_usuario.upper()} {n}")
 
 # Ejercicio cuatro
 telefono = input("Escribe tu telefono con prefijo y extencion (14 numeros):")
-
 print("Tu telefono sin prefijo ni extencion es este?:")
 print(telefono[2:12])
